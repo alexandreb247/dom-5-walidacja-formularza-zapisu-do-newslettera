@@ -8,7 +8,7 @@ const validate = (event) => {
 
     let txtName = document.getElementById('name');
     let txtEmail = document.getElementById('email');
-    let agree1 = document.getElementById('email');
+    let agree1 = document.getElementById('agree-1');
     let errors = document.getElementById('errors');
 
     errors.innerHTML = '';
